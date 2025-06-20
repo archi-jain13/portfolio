@@ -1,11 +1,11 @@
-# Personal Portfolio Website - Archi Jain
+ Personal Portfolio Website - Archi Jain
 
-## 🚀 Overview
+ Overview
 A modern, responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript. This portfolio showcases my web development skills, projects, and contact information with a clean and professional design.
 
-## ✨ Features
+ Features
 
-### 🎯 Core Features
+ Core Features
 - Responsive design that works on all devices
 - Dark/Light mode toggle
 - Smooth scrolling navigation
@@ -15,42 +15,42 @@ A modern, responsive personal portfolio website built with vanilla HTML, CSS, an
 - Mobile-friendly navigation menu
 - Scroll animations
 
-### 📑 Sections
-1. **Hero Section**
+ Sections
+1. Hero Section
    - Animated introduction
    - Dynamic typing text effect
    - Call-to-action button
 
-2. **About Me**
+2. About Me
    - Professional introduction
    - Personal background
    - Development philosophy
 
-3. **Projects**
+3. Projects
    - Interactive project cards
    - Project previews
    - Live demo & GitHub links
 
-4. **Skills**
+4. Skills
    - Technical skills showcase
    - Icon-based presentation
    - Responsive grid layout
 
-5. **Contact**
+5. Contact
    - Contact form with validation
    - Success notifications
    - Social media links
 
-6. **Footer**
+6. Footer
    - Quick navigation links
    - Social media connections
    - Copyright information
 
-## 🛠️ Technologies Used
+ Technologies Used
 - HTML5
 - CSS3
 - Vanilla JavaScript
 - Font Awesome Icons
 - Google Fonts
 
-## 📦 Project Structure 
+Project Structure 
